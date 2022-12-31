@@ -1,5 +1,3 @@
-# Hi I'm Jordan
-
 I’m Jordan, a software engineer and physician informaticist. My focus is on using tech to improve healthcare. 
 <hr />
 
