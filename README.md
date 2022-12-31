@@ -19,5 +19,5 @@ I can be reached at:
 
 <div dir="auto" align="left">
     <a href="https://www.linkedin.com/in/jordanlswartz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;" width="55"></a>
-    <a href="mailto:jordanLswartz@gmail.com" target="_blank" rel="noreferrer"><img src="icons8-mail.svg" style="max-width: 100%;" width="55"></a>
+    <a href="mailto:jordanLswartz@gmail.com" target="_blank" rel="noreferrer"></a>
 </div>
