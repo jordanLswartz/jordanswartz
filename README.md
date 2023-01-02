@@ -1,4 +1,4 @@
-Hi I’m Jordan, a software engineer and physician informaticist. My focus is on using tech to improve healthcare. 
+Hi I’m Jordan, a software engineer and physician informaticist living in Los Angeles. I love using tech to improve healthcare. 
 <hr />
 
 <p align="center">
