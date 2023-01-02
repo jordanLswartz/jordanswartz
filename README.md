@@ -1,4 +1,4 @@
-I’m Jordan, a software engineer and physician informaticist. My focus is on using tech to improve healthcare. 
+Hi I’m Jordan, a software engineer and physician informaticist. My focus is on using tech to improve healthcare. 
 <hr />
 
 I recently co-created [Triage](https://team-triage.github.io/), an open source consumer proxy that enables parallelism and provides a dead letter store.
